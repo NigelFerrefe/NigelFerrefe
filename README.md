@@ -1,5 +1,5 @@
 # Hi, I'm Nigel Ferreres Felix 👋  
-**Web Developer | 3D Artist | Digital Humanities Enthusiast**
+**Web Developer | 3D Artist | Digital Humanities**
 
 ---
 

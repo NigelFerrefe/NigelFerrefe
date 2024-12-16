@@ -50,9 +50,9 @@ Bringing ideas to life using:
 ## 📊 My Stats  
 
 **GitHub Stats**  
-(https://github-readme-stats.vercel.app/api?username=NigelFerrefe&show_icons=true&theme=tokyonight)  
+![Nigel's GitHub stats](https://github-readme-stats.vercel.app/api?username=NigelFerrefe&show_icons=true&theme=tokyonight)  
 
 **Top Languages**  
-(https://github-readme-stats.vercel.app/api/top-langs/?username=NigelFerrefe&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NigelFerrefe&layout=compact&theme=tokyonight)
 
 ---

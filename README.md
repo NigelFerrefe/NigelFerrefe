@@ -1,14 +1,14 @@
 # Hi, I'm Nigel Ferreres Felix 👋  
-**Web Developer | 3D Artist | Digital Humanities**
+**Full Stack Developer | 3D Artist | Digital Humanities**
 
 ---
 
 ## 👨‍💻 About Me  
-I am a web developer with experience in digital design and creativity. My background in **History** and a **Master's in Digital Humanities** from the University of Barcelona have given me a unique perspective to approach projects from a critical and multidisciplinary angle.  
+I am a full stack developer with experience in digital design and creativity. My background in **History** and a **Master's in Digital Humanities** from the University of Barcelona have given me a unique perspective to approach projects from a critical and multidisciplinary angle.  
 
-Currently, as a student at **Ironhack**, I specialize in **frontend development** using technologies such as **React.js** and **JavaScript**, creating dynamic and user-centered applications.  
+Graduated from Ironhack, I have expertise in both frontend and backend development, working with technologies such as React.js, JavaScript, and back-end tools like Node.js and Express.js to create dynamic and user-centered applications. 
 
-My passion for technology began with **3D modeling**, and that experience has allowed me to excel in the creation of visually attractive and functional interfaces. I seek to combine my creativity with technical skills to develop innovative digital solutions and continue growing as a professional in the world of web development.
+My passion for technology began with 3D modeling, and that experience has allowed me to thrive in the creation of visually attractive and functional interfaces. I seek to combine my creativity with technical skills to develop innovative digital solutions and continue growing as a professional in the world of web development.
 
 ---
 

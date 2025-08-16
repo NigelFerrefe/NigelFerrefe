@@ -1,14 +1,14 @@
 # Hi, I'm Nigel Ferreres Felix 👋  
-**Full Stack Developer | 3D Artist | Digital Humanities**
+**Web & Mobile Developer | Frontend | React | React Native | TypeScript | Next.js | Tailwind | MERN Stack**
 
 ---
 
 ## 👨‍💻 About Me  
-I am a full stack developer with experience in digital design and creativity. My background in **History** and a **Master's in Digital Humanities** from the University of Barcelona have given me a unique perspective to approach projects from a critical and multidisciplinary angle.  
+I am a web and mobile developer specialized in React and React Native, with full stack experience. My background allows me to combine technical and creative skills to build intuitive and high-quality digital products. 
 
-Graduated from Ironhack, I have expertise in both frontend and backend development, working with technologies such as React.js, JavaScript, and back-end tools like Node.js and Express.js to create dynamic and user-centered applications. 
+After completing the Ironhack intensive bootcamp, I developed interactive applications using React, JavaScript, Node.js, MongoDB, and RESTful APIs. More recently, I worked as a Frontend React Native Developer, collaborating with UX/UI and backend teams to deliver responsive mobile apps and contribute across the full development cycle. 
 
-My passion for technology began with 3D modeling, and that experience has allowed me to thrive in the creation of visually attractive and functional interfaces. I seek to combine my creativity with technical skills to develop innovative digital solutions and continue growing as a professional in the world of web development.
+I aim to keep growing as a developer, embracing new tools and challenges, and building efficient, user-friendly applications while evolving both technically and creatively.
 
 ---
 
@@ -16,34 +16,25 @@ My passion for technology began with 3D modeling, and that experience has allowe
 
 💡 **Frontend Development**:  
 Crafting responsive and engaging user interfaces with:  
-- **HTML**, **CSS**, **JavaScript**  
-- **React.js** for dynamic web apps  
+- **React.js**, **React Native**, **Next.js**  
+- **TypeScript**, **JavaScript**, **CSS**, **Tailwind**, **Tamagui**
 
 ⚙️ **Backend Development**:  
-Building robust and scalable server-side applications using:  
-- **Node.js** for server-side logic  
-- **REST APIs** for seamless client-server communication  
-
-🎨 **3D Design**:  
-Bringing ideas to life using:  
-- **Blender** for modeling and rendering  
-- **ZBrush** for detailed sculpting  
+Building server-side applications and APIs using:  
+- **Node.js**, **Express.js**, **MongoDB**, **API RESTful**
 
 ---
 
 ## 🛠️ Tech Stack  
 
 **Front-End**:  
-- **HTML**, **CSS**, **JavaScript**, **React**, **Bootstrap**, **SASS**  
+- **React**, **React Native**, **Next.js**, **TypeScript**, **JavaScript**, **CSS**, **Tailwind**, **Tamagui**
 
 **Back-End**:  
-- **Node.js**, **Express.js**, **MongoDB**, **SQL**, **API RESTful**  
+- **Node.js**, **Express.js**, **MongoDB**, **API RESTful**
 
-**Version Control**:  
-- **Git**, **GitHub**  
-
-**Testing**:  
-- **Cypress**
+**Tools & Workflow**:  
+- **Git**, **GitHub**, **Expo**, **Zustand**, **TanStack Query**, **Cypress**
 
 ---
 

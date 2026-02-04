@@ -41,10 +41,9 @@ Building server-side applications and APIs using:
 ## 📊 My Stats  
 
 **GitHub Stats**  
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NigelFerrefe&show_icons=true&theme=tokyonight" />
-
+![Nigel's GitHub stats](https://github-readme-stats.vercel.app/api?username=NigelFerrefe&show_icons=true&theme=tokyonight)  
 
 **Top Languages**  
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NigelFerrefe&layout=compact&theme=tokyonight" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NigelFerrefe&layout=compact&theme=tokyonight)
 
 ---
